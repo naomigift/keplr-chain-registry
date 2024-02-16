@@ -1,0 +1,39 @@
+{
+
+"chainld": "indigo-1",
+
+"chainName": "Pryzm Testnet",
+
+"rpc": "https://testnet-rpc.pryzm.zone", "rest": "https://testnet-api.pryzm.zone",
+
+"bip44": {
+
+"coinType": 118
+
+},
+
+"bech32Config": { {
+
+"bech32PrefixAccAddr": "pryzm",
+
+"bech32PrefixAccPub": "pryzmpub",
+
+"bech32PrefixValAddr": "pryzmvaloper",
+
+"bech32Prefix ValPub": "pryzmvaloperpub",
+
+bech32PrefixConsAddr": "pryzmvalcons",
+
+" "bech32PrefixConsPub": "pryzmvalconspub"
+
+"currencies": [
+
+{
+
+"coinDenom": "Pryzm",
+
+"coinMinimalDenom": "upryzm",
+
+"coinDecimals": 6,
+
+"coinGeckold": "cosmos"
